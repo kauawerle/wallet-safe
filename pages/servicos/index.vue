@@ -1,6 +1,5 @@
 <template>
-	<div>
-		<h1 class="text-lg font-bold">A empresa</h1>
+	<div class="text-information">
 		<p>
 			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus posuere
 			maximus velit at mattis. Nulla a finibus tortor. Quisque pulvinar sed est
@@ -22,3 +21,8 @@ export default {
 	methods: {},
 };
 </script>
+<style>
+.text-information {
+	margin-top: 20px;
+}
+</style>
