@@ -6,4 +6,4 @@
 - Depois use o comando ``yarn dev`` para rodar como developer;
 
 ## Como foi feita e qual foi o propósito dessa aplicação: 
-<p>Foi feita com o intuito de estudo em nuxt</p>
+<p>Foi feita com o intuito de estudo em nuxt, este projeto é um sistema para ser utilizado como fins próprios sem alcançar algum investimento.</p>
